@@ -1,0 +1,7 @@
+.classpath
+.settings/
+*.class
+.tern-project
+WebContent/
+.project
+*/target/
